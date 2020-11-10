@@ -15,8 +15,9 @@ You can use [Multiconnect](https://www.curseforge.com/minecraft/mc-mods/multicon
 ### Donations:
 This client is completely free so we would be very thankful if you gave us a little donation (https://www.paypal.me/MineGame159) and you will be rewarded with special role here on discord, an in game cape and more kit slots + colored name on pvp server. Make sure to include your discord tag and your ign so we can give you your rewards. Minimum amount to get donator benefits is 5$.
 
-Contributions:
+### Contributions:
 The client is open source and accepts contributions from anyone as long as the additions are useful and well written. You can fork the repo (https://github.com/MeteorDevelopment/meteor-client) and submit pull requests to contribute features/additions.
+
 ### Can i use optifine?
 Optfine is not supported as it can cause many bugs with the client. Instead we recommend using [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) and [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) to improve your games performance.
 
