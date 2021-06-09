@@ -10,6 +10,6 @@ There are many tabs at the top of the GUI that allow you to control other parts 
 Optfine is not supported as it can cause many bugs with the client. Instead we recommend using [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium) and [Phosphor](https://modrinth.com/mod/phosphor) to improve your games performance.
 Other Optifine alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754).
 
-#¢ How can I use Baritone with Meteor?
+## How can I use Baritone with Meteor?
 Meteor comes with Baritone built in, this way we can integrate Baritone's features into many of Meteor's features.
 Baritone's default command prefix is `#`, you can view all of Baritones commands [here](https://github.com/cabaletta/baritone/blob/master/USAGE.md).
