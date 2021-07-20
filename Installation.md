@@ -20,7 +20,7 @@ If you already have a MultiMC instance for 1.17.1 fabric, skip to step 4.
 If you already have Fabric installed for 1.17.1, skip to step 4.
 
 1. Download the [fabric installer](https://fabricmc.net/use/) and run it.
-2. Make sure 1.16.5 is selected, the path to your `.minecraft` folder is correct, and `create profile` is checked.
+2. Make sure 1.17.1 is selected, the path to your `.minecraft` folder is correct, and `create profile` is checked.
 3. Click `Install` and then wait for the process to complete.
 4. Open your `.minecraft` folder and create a folder within it called `mods`.
 4. Download Meteor from [here](https://meteorclient.com/download) and drag the downloaded jar file into the mods folder.
