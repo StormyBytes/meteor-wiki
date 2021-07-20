@@ -1,13 +1,13 @@
 ## Downloading
 
-The latest release of Meteor can be downloaded from [here](https://meteorclient.com/download).  
+The latest release of Meteor can be downloaded from [here](https://meteorclient.com/download) (for Minecraft 1.17.1).  
 *Disclaimer: If your antivirus flags Meteor as dangerous, it is probably because it is an executable (jar) file. If you have any concerns feel free to check the source code located within this repository.*
 
 ## Installing
 
 ### MultiMC (recommended)
 If you already have MultiMC installed, skip to step 2.  
-If you already have a MultiMC instance for 1.17.1 fabric, skip to step 4.  
+If you already have a MultiMC instance for 1.17.1 Fabric, skip to step 4.  
 
 1. Download [MultiMC](https://multimc.org/#Download) and install it.
 2. Open MultiMC and click `Add Instance`, make sure 1.17.1 is selected, give your instance a name and click `OK`.
@@ -19,7 +19,7 @@ If you already have a MultiMC instance for 1.17.1 fabric, skip to step 4.
 ### Minecraft Launcher
 If you already have Fabric installed for 1.17.1, skip to step 4.
 
-1. Download the [fabric installer](https://fabricmc.net/use/) and run it.
+1. Download the [Fabric installer](https://fabricmc.net/use/) and run it.
 2. Make sure 1.17.1 is selected, the path to your `.minecraft` folder is correct, and `create profile` is checked.
 3. Click `Install` and then wait for the process to complete.
 4. Open your `.minecraft` folder and create a folder within it called `mods`.
