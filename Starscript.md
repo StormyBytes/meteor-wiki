@@ -21,8 +21,12 @@ A list of standard variables can be found [here](https://github.com/MeteorDevelo
 - `player.pos.z`: Player's Z position.
 - `player.yaw`: Player's yaw rotation.
 - `player.pitch`: Player's pitch rotation.
+- `player.hand`: The name of the player’s main held item.
+- `player.offhand`: The name of the player’s offhand held item.
 
 ### Server
 - `server`: Server name.
 - `server.tps`: Server's TPS.
 - `server.time`: Server's time formatted as `16:00`.
+- `server.difficulty`: Server's difficulty.
+- `server.player_count`: Server's player count.
