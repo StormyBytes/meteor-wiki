@@ -1,5 +1,5 @@
 # Starscript
-[Starscript](https://github.com/MeteorDevelopment/starscript) is the formatting language currently used in Discord Presence.  
+[Starscript](https://github.com/MeteorDevelopment/starscript) is the formatting language currently used in Discord Presence and .say command.  
 Full syntax can be found [here](https://github.com/MeteorDevelopment/starscript/wiki).
 
 ## Variables
