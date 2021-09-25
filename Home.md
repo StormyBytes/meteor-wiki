@@ -34,8 +34,7 @@ and settings [here](https://baritone.leijurv.com/baritone/api/Settings.html).
 
 ## How do I dupe with Meteor?
 Finding dupes isn't an easy task. Public dupes get patched very quickly so alot of dupes are kept private.
-Meteor has no built in duping modules/features but you can check out the duping section of [this](/MeteorAddons.md) list of Meteor Addons.
-Some might work, and some may not.
+For this reason, Meteor has no built in duping modules/features.
 
 ## Why can't I talk in the Meteor Discord?
 You may have broken one of the rules in the [#rules](https://discord.com/channels/689197705683140636/816501672477720626/) channel
