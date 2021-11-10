@@ -19,6 +19,9 @@ You can use Copy Paste shortcuts in the GUI to copy and paste configs.
 
 You can also use this feature in individual modules and individual tabs (GUI, Config, HUD, etc).
 
+## Can someone give me a config?
+Do not ask this in the meteor discord or to staff members, we do NOT provide configs. 
+
 ## How do I use Meteor on older Minecraft versions
 Meteor is written for the latest stable release of Minecraft.
 You can use [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) if you want to connect to servers running other versions of Minecraft.
