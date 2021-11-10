@@ -38,7 +38,7 @@ More alternatives and the reason why its not supported [here](https://gist.githu
 Meteor has a built-in addon system which allows creation of addons.
 Addons can modify almost anything in meteor, modules, commands, gui, etc.
 
-Check out the addons list [here](/MeteorAddons.md).
+You can check out this unofficial addons list [here](https://anticope.ml/pages/MeteorAddons.html).
 
 ## Incompatibilities
 
