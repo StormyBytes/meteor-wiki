@@ -1,5 +1,5 @@
 ## How do I open the GUI?
-The default key for opening the GUI is <kbd>Right Shift</kbd> which you can change this via the Minecraft controls menu.  
+The default key for opening the GUI is <kbd>Right Shift</kbd> which you can change this via the Minecraft controls menu.
 Inside the GUI, you can left click on a Module to toggle it and right click to configure its settings.
 
 ## How do I use the HUD?
@@ -12,8 +12,15 @@ Inside the GUI, you can left click on a Module to toggle it and right click to c
 
 A red highlight on the hud element indicates that they are **OFF**. Simply left click to toggle and right click to configure.
 
+## How do I import and export configs?
+You can use Copy Paste shortcuts in the GUI to copy and paste configs.
+- Windows and Linux: `Ctrl + C` and `Ctrl + V`
+- MacOS: `Cmd + C` and `Cmd + V`
+
+You can also use this feature in individual modules and individual tabs (GUI, Config, HUD, etc).
+
 ## How do I use Meteor on older Minecraft versions
-Meteor is written for the latest stable release of Minecraft.  
+Meteor is written for the latest stable release of Minecraft.
 You can use [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) if you want to connect to servers running other versions of Minecraft.
 
 ## How to use Meteor with Optifine?
