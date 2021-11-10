@@ -55,3 +55,8 @@ Due to the amount of users in the discord server increasing, public channels hav
 
 ## How to use the proxy system?
 It works just like a normal socks proxy. If you don't know what a proxy is, then I suggest you [google it](https://letmegooglethat.com/?q=proxy) and find out.
+
+## I am having problems installing this client
+You may be having the Java Virtual Machine (JVM) or JNI error if you tried running the jar file,
+Meteor is a **Fabric Mod**. You aren't supposed to run the jar file, you are supposed to put it in your mods folder.
+For complete instructions, refer to the [Installation](https://github.com/MeteorDevelopment/meteor-client/wiki/Installation) manuals.
